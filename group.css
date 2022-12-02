@@ -2,3 +2,38 @@
     margin: 2px;
     padding: 2px;
 }
+body{
+    background-image: url(random.jpg);   
+    background-size: cover;
+}
+.topnav{
+    overflow: hidden;
+    background-image:linear-gradient(rgb(154, 247, 154), yellow);
+    background-size: cover;
+    margin-bottom: 5px;
+}
+.topnav a{
+    float: left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+/* Change color on hover */
+.topnav a:hover{
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
+.search{
+    margin-top: 8px;
+    margin-right: 5px;
+    padding: 5px;
+    float: right;
+}
+.bien{
+    color:white;
+    border: 2px dotted green;
+    background-color: rgb(173, 173, 173);
+    width: 40%;
+}
