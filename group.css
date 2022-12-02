@@ -2,3 +2,11 @@
     margin: 2px;
     padding: 2px;
 }
+
+#me {
+    font-size: 35px;
+    color: rgb(255, 210, 205);
+    background-color: gray;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
