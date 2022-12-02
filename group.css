@@ -2,6 +2,7 @@
     margin: 2px;
     padding: 2px;
 }
+<<<<<<< HEAD
 body{
     background-image: url(random.jpg);   
     background-size: cover;
@@ -37,3 +38,21 @@ body{
     background-color: rgb(173, 173, 173);
     width: 40%;
 }
+=======
+#footer{
+    text-align: right;
+}
+#footer p:nth-child(2){
+    color: crimson;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    text-align: center;
+    text-shadow: 2px 2px 3px gold;
+    font-family: Arial, Helvetica, sans-serif;
+    border: dashed 2px black;
+}
+#footer span{
+    font-weight: bold;
+    background-color: pink;
+}
+>>>>>>> c04c17a2e54f3c7c8e692d8bad828a03c2596855
